@@ -1,0 +1,3 @@
+function todoloquedebesaberdelaglobalizacion() {
+    alert("globalizacion")
+}
